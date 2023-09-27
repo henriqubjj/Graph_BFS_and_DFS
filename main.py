@@ -41,7 +41,7 @@ def main():
     print(f"Caminho de {start_vertex} a {target_vertex}: {path}")
     
 
-    print("Busca em Profundidade (DFS):")
+    print(f"Busca em Profundidade do vertice inicial {start_vertex} (DFS):")
     dfs_result = gr.dfs(start_vertex)
     print(dfs_result)
 
