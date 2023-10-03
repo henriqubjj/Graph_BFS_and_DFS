@@ -5,7 +5,7 @@ PYTHON = python3
 
 # Arquivos fonte e de teste
 SRC_FILES = graph.py main.py
-TEST_FILES = pcv4.txt pcv10.txt pcv50.txt pcv100.txt
+TEST_FILES = pcv4.txt pcv10.txt pcv50.txt pcv177.txt
 
 # Alvo padrão
 all: run
